@@ -13,7 +13,6 @@
 - 🎨 Obsessed with **clean UI**, smooth animations & fast load times
 - 🌱 Currently leveling up my **JavaScript** and learning **React**
 - 🤝 Open to **freelance work & collaborations**
-- 📫 Reach me at **[your@email.com]**
 - ⚡ Fun fact: **I can spend 2 hours picking the perfect font** 😄
 
 ### 🛠️ My Web Dev Stack
@@ -32,7 +31,7 @@
 </p>
 
 ### 🚀 What I'm Building
-> 🔨 **[Project Name]** — short one-line description
+> 🔨 **[A ai image detector]** — which helps to detect ai images
 > 🌍 **[Project Name]** — short one-line description
 
 ### 🌐 Connect With Me
